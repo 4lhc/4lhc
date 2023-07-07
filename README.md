@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sreejith Sasidharan
-- 👀 I’m a researcher at Amrita University, India
+- 👀 I work as an ADAS engineer.
 
 
 <!---
