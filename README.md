@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sreejith Sasidharan
-- 👀 I work as an ADAS engineer.
+- 👀 I work on developing L4 autonomous trucking solutions.
 
 
 <!---
